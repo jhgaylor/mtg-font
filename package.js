@@ -4,10 +4,10 @@
 /* global Package:true */
 
 Package.describe({
-  name: 'jhgaylor:bootstrap',  // http://atmospherejs.com/jhgaylor/bootstrap
+  name: 'mtg:font',  // http://atmospherejs.com/AlexandreArpin/mtg-font
   summary: 'Scalable vector icons for Magic the Gathering symbols.',
   version: '0.0.1',
-  git: 'https://github.com/jhgaylor/mtg-font.git'
+  git: 'https://github.com/AlexandreArpin/mtg-font.git'
 });
 
 Package.onUse(function (api) {
