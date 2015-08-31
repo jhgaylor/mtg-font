@@ -33,7 +33,7 @@ Package.onUse(function (api) {
     'svg/u.svg',
     'svg/w.svg',
     'fonts/magic-font.eot',
-    'fonts/magic-font-svg',
+    'fonts/magic-font.svg',
     'fonts/magic-font.ttf',
     'fonts/magic-font.woff',
     'fonts/Matrix-Bold.eot',
