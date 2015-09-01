@@ -6,7 +6,7 @@
 Package.describe({
   name: 'mtg:font',  // http://atmospherejs.com/AlexandreArpin/mtg-font
   summary: 'Scalable vector icons for Magic the Gathering symbols.',
-  version: '0.0.1',
+  version: '0.0.2',
   git: 'https://github.com/AlexandreArpin/mtg-font.git'
 });
 
